@@ -7,6 +7,7 @@ To build:
 docker build --build-arg CODE_RELEASE= `#optional` -t sydneymrcat/code-server-updater .
 ```
 ## Update Code-Server
+
 Before updating, you should stop container:
 ```
 docker stop code-server
