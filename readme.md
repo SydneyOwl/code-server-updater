@@ -3,6 +3,9 @@
 ![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/SydneyOwl/code-server-updater/ci.yml?style=for-the-badge) ![Docker Pulls](https://img.shields.io/docker/pulls/sydneymrcat/code-server-updater?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/sydneyowl/code-server-updater?style=for-the-badge)
 
 This is the Experimental updater for https://github.com/SydneyOwl/docker-code-server.
+
+Compatible for both full verison and pure version
+
 ## Build
 
 To build:
