@@ -42,4 +42,6 @@ Note: BACKUP_FILE is optional. You may specify the name of it if you have multip
 
 ## VersionLog
 
+v0.1.1 updater of Code-server v4.12.0
+
 v0.1.0 Initial Release with updater of Code-server v4.11.0
